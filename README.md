@@ -1,4 +1,4 @@
-#Learn SQL
+# Learn SQL
 
 ## 1. Database là gì?
     - Còn được gọi là cơ sở dữ liệu. Chịu trách nhiệm lưu giữ data cho phần mềm
@@ -13,14 +13,14 @@
     - Các table ( bảng )
     - Mỗi bảng sẽ lưu thông tin cơ bản của 1 đối tượng nào đó
     - Column ( Field ) / Row
-    
+
 ## 4. Các câu lệnh SQL
     1. Tạo database
     - CREATE DATABASE database_name;
     
     2. Tạo table
-    - **Có 3 kiểu dữ liệu đơn giản: Số (Integer), Chữ (Varchar), Date (DATE)**
-
+    - Có 3 kiểu dữ liệu đơn giản: Số (Integer), Chữ (Varchar), Date (DATE)
+    
     - USE database_name; (Sử dụng database vừa tạo)
 
     - CREATE TABLE table_name (
