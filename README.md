@@ -1,20 +1,20 @@
 #Learn SQL
 
-##1. Database là gì?
+## 1. Database là gì?
     - Còn được gọi là cơ sở dữ liệu. Chịu trách nhiệm lưu giữ data cho phần mềm
     - Cơ sở dữ liệu được lưu theo dạng hàng và cột (Table)
     
-##2. Component ( Có nhiều loại SQL )
+## 2. Component ( Có nhiều loại SQL )
     - SQL: Structure Query Language : Là ngôn ngữ truy vấn có cấu trúc (có hàng, có cột)
     - MySQL: Database Management System, NoSQL, Oracle, ..
     
-##3. Thành phần của Database
+## 3. Thành phần của Database
     - Có 1 database (1 dự án)
     - Các table ( bảng )
     - Mỗi bảng sẽ lưu thông tin cơ bản của 1 đối tượng nào đó
     - Column ( Field ) / Row
     
-##4. Các câu lệnh SQL
+## 4. Các câu lệnh SQL
     1. Tạo database
     - CREATE DATABASE database_name;
     
